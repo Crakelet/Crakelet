@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./banner.svg" width="100%" alt="Crakelet — Diseño y desarrollo web" />
+
 
   <br />
   <br />
