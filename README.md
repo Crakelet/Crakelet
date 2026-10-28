@@ -1,49 +1,126 @@
 <div align="center">
 
-  <h1>Crakelet</h1>
-  <p><strong>Diseño gráfico · UI/UX · Desarrollo web</strong></p>
-  <p>Identidades visuales, sitios web y herramientas para el trabajo diario.</p>
+  <img src="./banner.svg" width="100%" alt="Crakelet — Diseño y desarrollo web" />
 
-  <p>
-    <a href="https://crakelet.dev">Portafolio</a>
-    &nbsp; / &nbsp;
-    <a href="https://behance.net/Crakelet">Behance</a>
-    &nbsp; / &nbsp;
-    <a href="https://linkedin.com/in/Crakelet">LinkedIn</a>
-  </p>
+  <br />
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=1400&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Dise%C3%B1o+gr%C3%A1fico+y+desarrollo+web;Identidad+visual%2C+interfaces+y+dashboards;Figma+%C2%B7+Affinity+%C2%B7+React+%C2%B7+Node.js" width="640" alt="Diseño gráfico y desarrollo web. Identidad visual, interfaces y dashboards." />
+
+  <br />
+  <br />
+
+  <a href="https://crakelet.dev">
+    <img src="https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8" alt="Ver portafolio" />
+  </a>
+  <a href="https://behance.net/Crakelet">
+    <img src="https://img.shields.io/badge/Behance-0F172A?style=for-the-badge&amp;logo=behance&amp;logoColor=A78BFA" alt="Ver trabajos en Behance" />
+  </a>
+  <a href="https://linkedin.com/in/Crakelet">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38BDF8" alt="Contactar por LinkedIn" />
+  </a>
 
 </div>
 
+<br />
+
+## Sobre mí
+
+Soy **diseñador y desarrollador web**. Trabajo en identidad visual, sitios web y dashboards: desde el logotipo y la tipografía hasta la interfaz y su implementación.
+
+Me gusta cuidar la composición y los detalles de uso: cómo se organiza la información, qué pasa al interactuar con un componente y cómo se adapta una pantalla al móvil.
+
+El diseño lo trabajo en **Figma, Adobe y Affinity**. Para llevarlo a la web uso **React y Node.js**, con IA como apoyo para automatizar tareas, escribir pruebas y refactorizar código.
+
+## Diseño y desarrollo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Diseño · UI/UX · Branding</h3>
+      <p>Identidad visual e interfaces.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr&amp;perline=5" width="250" alt="Figma, Photoshop, Illustrator, After Effects y Premiere Pro" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Affinity_Designer-0F172A?style=flat-square&amp;logo=affinitydesigner&amp;logoColor=38BDF8" alt="Affinity Designer" />
+        <img src="https://img.shields.io/badge/Affinity_Photo-0F172A?style=flat-square&amp;logo=affinityphoto&amp;logoColor=A78BFA" alt="Affinity Photo" />
+      </p>
+      <ul>
+        <li><b>Identidad:</b> logotipos, tipografía, color y aplicaciones de marca.</li>
+        <li><b>UI/UX:</b> navegación, arquitectura de información y visualización de datos.</li>
+        <li><b>Sistemas de diseño:</b> componentes, tokens y guías de estilo.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Desarrollo · Web · APIs</h3>
+      <p>Interfaces, lógica e integraciones.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,tailwind&amp;perline=5" width="250" alt="React, TypeScript, JavaScript, Node.js y Tailwind CSS" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/REST-0F172A?style=flat-square" alt="APIs REST" />
+        <img src="https://img.shields.io/badge/GraphQL-0F172A?style=flat-square&amp;logo=graphql&amp;logoColor=A78BFA" alt="GraphQL" />
+      </p>
+      <ul>
+        <li><b>Frontend:</b> React, TypeScript, Tailwind CSS y animaciones.</li>
+        <li><b>Backend:</b> Node.js, Express e integración de APIs y modelos de IA.</li>
+        <li><b>Otras herramientas:</b> Python, HTML, CSS, Git y GitHub.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Trabajo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Interfaces y aplicaciones</h3>
+      <p>Sitios web, dashboards e integraciones.</p>
+      <p>
+        <a href="https://github.com/Crakelet?tab=repositories">
+          <img src="https://img.shields.io/badge/Ver_repositorios-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="Ver repositorios de Crakelet" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Identidad y diseño visual</h3>
+      <p>Branding, logotipos y diseño de interfaces.</p>
+      <p>
+        <a href="https://behance.net/Crakelet">
+          <img src="https://img.shields.io/badge/Ver_trabajos-0F172A?style=for-the-badge&amp;logo=behance&amp;logoColor=A78BFA" alt="Ver trabajos de Crakelet en Behance" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Actividad en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crakelet&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=38BDF8&amp;icon_color=A78BFA&amp;text_color=CBD5E1" width="49%" alt="Estadísticas de Crakelet en GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crakelet&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=38BDF8&amp;text_color=CBD5E1" width="49%" alt="Lenguajes más usados en los repositorios de Crakelet" />
+</div>
+
+<details>
+  <summary>Ver racha de contribuciones</summary>
+  <br />
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Crakelet&amp;theme=dark&amp;hide_border=true&amp;background=0F172A&amp;ring=38BDF8&amp;fire=A78BFA&amp;currStreakLabel=38BDF8&amp;sideNums=CBD5E1&amp;currStreakNum=CBD5E1&amp;sideLabels=CBD5E1&amp;dates=94A3B8" width="640" alt="Racha de contribuciones de Crakelet en GitHub" />
+  </p>
+</details>
+
+<br />
+
 ---
 
-Soy diseñador y desarrollador. Trabajo en identidad visual e interfaces, y llevo esos diseños a la web con React y Node.js.
+<div align="center">
 
-Me interesa cómo se ve un proyecto y cómo se usa: desde la tipografía y la composición hasta la navegación, los formularios y los estados de cada pantalla.
+  <h3>Contacto</h3>
+  <p>Para conversar sobre un proyecto de diseño o desarrollo, puedes escribirme por LinkedIn.</p>
+  <a href="https://linkedin.com/in/Crakelet">
+    <img src="https://img.shields.io/badge/Escr%C3%ADbeme-0F172A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38BDF8" alt="Escribir a Crakelet por LinkedIn" />
+  </a>
 
-## En qué trabajo
-
-| Área | Trabajo |
-| :--- | :--- |
-| **Identidad visual** | Logotipos, tipografía, color y aplicaciones de marca. |
-| **Diseño de interfaces** | Sitios web, dashboards, arquitectura de información y sistemas de componentes. |
-| **Desarrollo web** | Interfaces en React, APIs con Node.js y automatización de tareas. |
-
-## Herramientas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,react,ts,nodejs,tailwind,git&amp;theme=dark" alt="Figma, Photoshop, Illustrator, React, TypeScript, Node.js, Tailwind CSS y Git" />
-</p>
-
-| | |
-| :--- | :--- |
-| **Diseño** | Figma · Illustrator · Photoshop · Affinity Designer · Affinity Photo |
-| **Video y motion** | After Effects · Premiere Pro |
-| **Frontend** | React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS |
-| **Backend e integraciones** | Node.js · Express · Python · REST · GraphQL |
-| **Versionado** | Git · GitHub |
-
-También uso IA como apoyo para automatizar tareas, escribir pruebas y refactorizar código.
-
-## Contacto
-
-Puedes escribirme por [LinkedIn](https://linkedin.com/in/Crakelet) y ver más de mi trabajo en [crakelet.dev](https://crakelet.dev) o [Behance](https://behance.net/Crakelet).
+</div>
