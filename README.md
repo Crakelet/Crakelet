@@ -34,7 +34,7 @@ El diseño lo trabajo en **Figma, Adobe y Affinity**. Para llevarlo a la web uso
 
 ## Diseño y desarrollo
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>Diseño · UI/UX · Branding</h3>
@@ -71,44 +71,42 @@ El diseño lo trabajo en **Figma, Adobe y Affinity**. Para llevarlo a la web uso
   </tr>
 </table>
 
-## Trabajo
+## Trabajo y proyectos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Interfaces y aplicaciones</h3>
-      <p>Sitios web, dashboards e integraciones.</p>
-      <p>
-        <a href="https://github.com/Crakelet?tab=repositories">
-          <img src="https://img.shields.io/badge/Ver_repositorios-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="Ver repositorios de Crakelet" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Identidad y diseño visual</h3>
-      <p>Branding, logotipos y diseño de interfaces.</p>
-      <p>
-        <a href="https://behance.net/Crakelet">
-          <img src="https://img.shields.io/badge/Ver_trabajos-0F172A?style=for-the-badge&amp;logo=behance&amp;logoColor=A78BFA" alt="Ver trabajos de Crakelet en Behance" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Nube de Lluvia
+<sub>IMPRESIÓN · IDENTIDAD VISUAL · WEB</sub>
 
-## Actividad en GitHub
+Mi proyecto de impresión y diseño en Valdivia. Trabajo en su identidad visual, productos impresos y herramientas web para el día a día de la imprenta.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crakelet&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=38BDF8&amp;icon_color=A78BFA&amp;text_color=CBD5E1" width="49%" alt="Estadísticas de Crakelet en GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crakelet&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=38BDF8&amp;text_color=CBD5E1" width="49%" alt="Lenguajes más usados en los repositorios de Crakelet" />
-</div>
+<a href="https://nubedelluvia.cl">
+  <img src="https://img.shields.io/badge/Visitar_Nube_de_Lluvia-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8" alt="Visitar Nube de Lluvia" />
+</a>
+
+<br />
+<br />
+
+### Identidad visual e interfaces
+<sub>BRANDING · UI/UX · DISEÑO GRÁFICO</sub>
+
+Logotipos, sistemas de marca y diseño de pantallas. Puedes ver mis trabajos visuales en Behance y recorrer el portafolio completo en mi sitio.
+
+<a href="https://behance.net/Crakelet">
+  <img src="https://img.shields.io/badge/Ver_dise%C3%B1os-0F172A?style=for-the-badge&amp;logo=behance&amp;logoColor=A78BFA" alt="Ver diseños en Behance" />
+</a>
+<a href="https://crakelet.dev">
+  <img src="https://img.shields.io/badge/Ver_portafolio-0F172A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=38BDF8" alt="Ver portafolio de Crakelet" />
+</a>
+
+<br />
+<br />
 
 <details>
-  <summary>Ver racha de contribuciones</summary>
+  <summary><strong>Actividad pública en GitHub</strong></summary>
   <br />
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Crakelet&amp;theme=dark&amp;hide_border=true&amp;background=0F172A&amp;ring=38BDF8&amp;fire=A78BFA&amp;currStreakLabel=38BDF8&amp;sideNums=CBD5E1&amp;currStreakNum=CBD5E1&amp;sideLabels=CBD5E1&amp;dates=94A3B8" width="640" alt="Racha de contribuciones de Crakelet en GitHub" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Crakelet&amp;locale=es&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=38BDF8&amp;icon_color=A78BFA&amp;text_color=CBD5E1&amp;custom_title=Actividad%20p%C3%BAblica" width="480" alt="Resumen de la actividad pública de Crakelet en GitHub" />
   </p>
+  <p><a href="https://github.com/Crakelet?tab=overview">Ver contribuciones en GitHub ↗</a></p>
 </details>
 
 <br />
